@@ -10,5 +10,5 @@
     then [ (builtins.readFile ../kexec-ssh-key.pub) ]
     else [ ];
 
-  system.stateVersion = "22.10";
+  system.stateVersion = "22.05";
 }

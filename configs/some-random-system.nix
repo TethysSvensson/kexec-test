@@ -3,7 +3,7 @@
   networking.hostName = "some-random-system";
   time.timeZone = "Europe/Copenhagen";
 
-  system.stateVersion = "22.10";
+  system.stateVersion = "22.05";
 
   boot.loader = {
     grub.enable = false;
